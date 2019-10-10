@@ -1,0 +1,42 @@
+@charset "UTF-8";
+#main #tit {
+    text-align: center;
+    font-size: large;
+    font-family: Constantia, "Lucida Bright", "DejaVu Serif", Georgia, serif;
+    color: #C25125;
+}
+#main #resalt {
+    font-size: x-large;
+    margin-right: 20px;
+    color: #C25125;
+    padding-right: 60px;
+    margin-left: 20px;
+}
+#main p img {
+    text-align: left;
+    margin-right: 180px;
+}
+#main p {
+    text-align: justify;
+    font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+#main p a {
+    color: #C25125;
+}
+#main h2 {
+    color: #CF6630;
+    text-decoration: underline;
+}
+#main #resaltado {
+    padding-left: 150px;
+    padding-right: 150px;
+    font-size: large;
+    font-style: oblique;
+    color: #C25125;
+}
+main {
+}
+#main {
+    padding-left: 210px;
+    padding-right: 210px;
+}
