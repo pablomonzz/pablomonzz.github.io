@@ -1,0 +1,284 @@
+@charset "UTF-8";
+#zoarly {
+	color: #000000;
+	text-decoration-color: #FFFFFF;
+}
+.style1 {
+	color: #B600E7;
+	text-decoration-color: #FFFFFF;
+}
+.style2 {
+	color: #B600E7;
+	text-decoration-color: #FFFFFF;
+}
+.style3 {
+	color: #B600E7;
+	text-decoration-color: #FFFFFF;
+	margin-left: inherit;
+	
+
+}
+li #About3 #style3 {
+}
+.banner {
+	top: 4%;
+	padding-left: 430px;
+	
+	
+}
+header {
+	background-image: url("images/Aidah_Boano+Prišmontas+and+Ricardas+Blazukas_Dubai+Design+Week+2017+(8)+(1).jpeg");
+	height: 600px;
+	position: relative;
+	background-size: cover;
+	
+}
+.items {
+	padding-right: 250px;
+	padding-left: 250px;
+	text-align: center;
+}
+#hero {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	color: #FFFFFF;
+	font-size: 180px;
+	padding-left: 190px;
+}
+#firs_image {
+	left: 10px;
+	right: 180%;
+	margin-left: -200px;
+	padding-bottom: 200px;
+	margin-top: 1%;
+}
+ul {
+	margin-top: 0%;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 15px;
+	padding-left: 0px;
+	width: 100%;
+}
+ul li {
+	list-style: none;
+	float: left;
+	margin-right: auto;
+	margin-top: 0px;
+	font-family: "Source Sans Pro";
+	font-weight: normal;
+	color: #565656;
+	text-decoration-color:#FFFFFF;
+	letter-spacing: 0px;
+	margin-left: 8%;
+	text-align: center;
+	width: 16%;
+	transition: all 0.3s linear;
+}
+.secondary_header ul li:hover {
+	color: #717070;
+	cursor: pointer;
+}
+.text_column {
+
+font-family: "Source Sans Pro";
+color: #A5A5A5;
+	text-align: justify;
+}
+.thumbnail {
+	width: 100px;
+	border-radius: 200px;
+	height: 100px;
+	margin-left: auto;
+	background-color: aqua;
+
+}
+.thumbnail2  {
+	width: 100px;
+	border-radius: 200px;
+	height: 100px;
+	margin-left: auto;
+	background-color: aqua;
+
+}
+.thumbnail3  {
+	width: 100px;
+	border-radius: 200px;
+	height: 100px;
+	margin-left: auto;
+	background-color: aqua;
+
+}
+.thumbnail_align {
+	text-align: center;
+	margin-left: 60%;
+
+}
+
+.columns {
+	width: 25%;
+	float: left;
+	font-family: "Source Sans Pro";
+	color: #A5A5A5;
+	line-height: 24px;
+	padding-top: 10px;
+	text-align: justify;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	padding-right: 10px;
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+h4 {
+	padding-left: 72%;
+}
+
+#othercolumn {
+	padding-top: 28%;
+	font-family: "Source Sans Pro";
+color: #A5A5A5;
+	text-align: justify;
+}
+.banner2 {
+	background-color: #2D9AB7;
+	background-image: url(../images/parallax.png);
+	height: 400px;
+	background-attachment: fixed;
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-color: #B1B1B1;
+	padding-bottom: 5%;
+}
+.parallax {
+	color: #FFFFFF;
+	padding-left: 38%;
+	padding-bottom: 10%;
+	text-align: justify;
+	padding-right: 100px;
+	padding-top: 110px;
+	letter-spacing: 2px;
+	margin-top: 0px;
+	background-color: #151515;
+}
+.parallax_description {
+	color: #000000;
+	text-align: justify;
+	width: 60%;
+	font-weight: lighter;
+	line-height: 25px;
+	padding-left: 20%;
+}
+.button {
+	font-family:"Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, "sans-serif"; 
+	width: 200px;
+	margin-top: 40px;
+	margin-right: auto;
+	margin-bottom: auto;
+	margin-left: auto;
+	padding-top: 20px;
+	padding-right: 10px;
+	padding-bottom: 20px;
+	padding-left: 10px;
+	text-align: center;
+	vertical-align: middle;
+	border-radius: 0px;
+	text-transform: uppercase;
+	font-weight: bold;
+	letter-spacing: 2px;
+	border: 3px solid #FFFFFF;
+	color: #FFFFFF;
+}
+#premios{
+	background-image: url("images/Abwab-Pavilion_Exterior_Dubai-Design-Week-2017-5-1.jpg")
+}
+#hero2 {
+	position: absolute;
+	top: 50%;
+	left: 45%;
+	transform: translate(-50%,-50%);
+	color: #FFFFFF;
+	font-size: 120px;
+	padding-left: 150px;
+}
+.trofeo {
+	padding-right: 250px;
+	padding-left: 350px;
+	border-radius: 500px;
+}
+.text2 {
+	font-family: "Source Sans Pro";
+	color: #A5A5A5;
+	text-align: justify;
+	padding-right: 250px;
+	padding-left: 250px;
+}
+.title2 {
+	padding-left: 250px;
+}
+#hero3 {
+	position: absolute;
+	top: 50%;
+	left: 45%;
+	transform: translate(-50%,-50%);
+	color: #FFFFFF;
+	font-size: 120px;
+	padding-left: 150px;
+}
+#hero4 {
+	position: absolute;
+	top: 50%;
+	left: 45%;
+	transform: translate(-50%,-50%);
+	color: #FFFFFF;
+	font-size: 120px;
+	padding-left: 150px;
+}
+#diseno{
+	background-image: url("images/Abwab2019_KSA_Azaz_Render_01.jpg");
+}
+.muestra {
+	padding-left: 400px;
+}
+#artistas {
+	background-image: url("images/1541928394virtual-reality.jpg")
+}
+.thumbnail4 {
+	width: 400px;
+	border-radius: 400px;
+	height: 400px;
+	margin-left: auto;
+	padding-right: 0px;
+	margin-left: 500px;
+	
+}
+.audi {
+	height: 300px;
+	width: 300px;
+	margin-left: 145px;
+}
+.h4name {
+	text-align: left;
+	margin-left: 115%;
+}
+.thumbnail_align2 {
+	text-align: center;
+	margin-left: 180%;
+}
+.info {
+	padding-right: 200%;
+}
+.text3 {
+	font-family: "Source Sans Pro";
+	color: #A5A5A5;
+	text-align:center;
+	padding-right: 250px;
+	padding-left: 250px;
+	margin-top:  15%;
+	margin-right: 10%;
+}
