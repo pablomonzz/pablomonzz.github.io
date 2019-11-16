@@ -1,0 +1,31 @@
+.bg-info {
+background-color: #000000 !important;
+}
+.column {
+	
+	padding-right: 250px;
+	padding-left: 250px;
+}
+
+.texto {
+	text-align: justify;
+}
+header {
+	background-image: url("images/510066_1.jpg");
+	height: 600px;
+	position: relative;
+	background-size: cover;
+}
+
+#hero {
+	text-decoration: none;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	color: #FFFFFF;
+	font-size: 100px;
+	padding-right: 250px;
+	padding-left: 350px;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+}
